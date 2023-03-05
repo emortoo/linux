@@ -1,6 +1,6 @@
 # Linux Commands 
 
-<a href="linux/commands/user-managment"><b>1. User managment</b></a>
+<a href="/commands/user-managment.md"><b>1. User managment</b></a>
  - Create a new user
  - Check if user exists
  - Check user ID
@@ -8,7 +8,7 @@
  - Delete user
  - Switch user
 
-[2. Group managment]()
+<a href="/commands/group-managment.md"><b>2. Group managment</b></a>
  - Create group
  - Add group
  - Delete group
